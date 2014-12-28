@@ -264,7 +264,7 @@ typo.maxFontSize = typo.minFontSize = function (rule) {
 };
 
 // assign the CSS property to the function
-stylefill.init({
-	'max-font-size' : typo.maxFontSize,
-	'min-font-size' : typo.minFontSize
-});
+// stylefill.init({
+//	'max-font-size' : typo.maxFontSize,
+//	'min-font-size' : typo.minFontSize
+//});
